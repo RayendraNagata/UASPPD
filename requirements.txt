@@ -3,3 +3,6 @@ pandas
 numpy
 matplotlib
 statsmodels
+scikit-learn
+joblib
+tensorflow
